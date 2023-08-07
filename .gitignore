@@ -11,3 +11,4 @@ __pycache__/
 # IDE files (optional)
 .idea/
 .vscode/
+/documents/code/mj-ac/.env/
